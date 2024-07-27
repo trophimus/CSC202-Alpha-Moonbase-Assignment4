@@ -1,0 +1,15 @@
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.csproj.AssemblyReference.cache
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha_Lunar_Moonbase_Command_OOP_AssignmentIV.MainForm.resources
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha_Lunar_Moonbase_Command_OOP_AssignmentIV.Properties.Resources.resources
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.csproj.GenerateResource.cache
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.csproj.CoreCompileInputs.cache
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.exe.config
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.exe
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.pdb
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.exe
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha Lunar Moonbase Command OOP AssignmentIV.pdb
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Images\quantumDiner.jpg
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Images\scienceLab.jpg
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Images\livingQuarters.jpg
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\bin\Debug\Images\commandControl.jpg
+C:\Users\DR BONNER\source\repos\Alpha Lunar Moonbase Command OOP AssignmentIV\obj\Debug\Alpha_Lunar_Moonbase_Command_OOP_AssignmentIV.ShowDialog.resources
